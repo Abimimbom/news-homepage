@@ -398,7 +398,7 @@
     }
 
     .card p:last-of-type {
-        font-size: 16px;
+        font-size: 1.2em;
     }
 
     .nav,
@@ -421,7 +421,11 @@
 
     .headline-heading-right button {
         padding: 1rem 1rem;
-        font-size: .8em;
-        width: 160px;
+        font-size: 1em;
+        width: 19s0px;
+    }
+
+    .headline-heading-right p {
+        font-size: 1.2em;
     }
 }
